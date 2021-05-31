@@ -3,8 +3,8 @@ title: WEB VITALS
 subtitle: " Il web che si muove alla velocità della Luce"
 image: /img/contents/giugno21.jpg
 cover: /img/contents/web-vitals-hero.png
-date: 2021-05-31T06:50:51.547Z
-date_end: 2021-05-31T06:50:51.578Z
+date: 2021-06-23T17:00:00.000Z
+date_end: 2021-06-23T18:00:00.000Z
 permalink: /eventi/{{ page.date | dateslug }}/{{ page.fileSlug | slug }}/index.html
 published: false
 featured: false
