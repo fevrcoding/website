@@ -6,8 +6,8 @@ cover: /img/contents/web-vitals-hero.png
 date: 2021-06-23T17:00:00.000Z
 date_end: 2021-06-23T18:00:00.000Z
 permalink: /eventi/{{ page.date | dateslug }}/{{ page.fileSlug | slug }}/index.html
-published: false
-featured: false
+published: true
+featured: true
 event:
   auto_meta: true
   location: Facebook Live
