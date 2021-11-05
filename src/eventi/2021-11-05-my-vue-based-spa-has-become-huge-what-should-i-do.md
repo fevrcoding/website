@@ -2,11 +2,11 @@
 title: My Vue-based spa has become huge, what should I do?
 image: /img/contents/is-it-possible-to-build-your-ui-components-using-only-web-components.jpg
 cover: /img/contents/single-page-web-app.jpg
-date: 2021-11-05T08:23:41.910Z
-date_end: 2021-11-05T08:23:41.935Z
+date: 2021-11-17T18:00:41.910Z
+date_end: 2021-11-17T19:30:41.935Z
 permalink: /eventi/{{ page.date | dateslug }}/{{ page.fileSlug | slug }}/index.html
-published: false
-featured: false
+published: true
+featured: true
 event:
   auto_meta: true
   location: Facebook Live
