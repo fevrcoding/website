@@ -1,6 +1,6 @@
 ---
 title: Is it possible to build your UI components using only web components?
-image: /img/contents/ottobre21.jpg
+image: /img/contents/is-it-possible-to-build-your-ui-components-using-only-web-components.png
 cover: /img/contents/xqegzzqbqwp5mcbhjnct.jpg
 date: 2021-10-19T17:30:00.000Z
 date_end: 2021-10-19T18:30:08.529Z
